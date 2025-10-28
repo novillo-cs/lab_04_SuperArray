@@ -117,4 +117,6 @@ Throws an IndexOutOfBoundsException when the index is negative or the index is a
 
 # Driver
 
-You must write multiple test cases in the Driver.
+- You must write multiple test cases in the Driver.
+
+- Your driver must handle exceptions (try/catch).
