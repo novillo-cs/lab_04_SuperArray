@@ -1,1 +1,7 @@
-# lab_04_SuperArray
+# Lab 04: SuperArray
+
+**Name:**
+
+**Period:** 
+
+**Email:**
