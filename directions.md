@@ -1,5 +1,7 @@
 # SuperArray
 
+test
+
 You will create a class SuperArray. It must allow to create a dynamic String array giving you the option to resize the array.
 
 ## Instance variables
