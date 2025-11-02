@@ -1,6 +1,6 @@
 # Lab 04: SuperArray
 
-**Name:**
+**Name: Ms. Novillo**
 
 **Period:** 
 
